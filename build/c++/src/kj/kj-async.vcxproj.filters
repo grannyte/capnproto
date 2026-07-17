@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async-unix.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async-win32.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async-io-win32.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async-io.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\async-io-unix.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\cidr.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\timer.c++">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\David\Documents\Visual Studio 2010\Projects\Outerspacegit\capnproto\c++\src\kj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9BEC6F40-B66C-3C17-AC8A-2BB2EA7FB125}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
